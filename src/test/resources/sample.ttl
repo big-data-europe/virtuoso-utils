@@ -1,0 +1,3 @@
+@prefix ns0:    <urn:> .
+ns0:s2  ns0:p   ns0:o .
+ns0:s3  ns0:p   ns0:o .
